@@ -1,2 +1,2 @@
 # KCP
-This is the replication package for our work submitted to IEEE Transactions on Software Engineering.
+This is the replication package for our work submitted to XXXX.
