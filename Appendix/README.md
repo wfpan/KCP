@@ -1,4 +1,4 @@
-# Online-Appendix
+# Online appendix
 This file contains four parts:
 - Section 1: a brief description of subject systems, 
 - Section 2:  definisions of design metrics, 
