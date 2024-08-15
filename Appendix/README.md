@@ -1,2 +1,6 @@
 # Online-Appendix
-This file contains four parts: i) a brief description of subject systems, ii) definisions of design metrics, iii) definitions of unweighted network metrics, and iv) software network representation. 
+This file contains four parts:
+- Section 1: a brief description of subject systems, 
+- Section 2:  definisions of design metrics, 
+- Section 3: definitions of unweighted network metrics, and 
+- Section 4: software network representation. 
